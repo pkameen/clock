@@ -1,0 +1,232 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+select{
+    background-color: darkorange;
+    border: 2px solid blue;
+    border-radius: 5px;
+}
+.mine-div{
+    position: absolute ;
+    z-index: -2;
+    width: 30%;
+    height: 600px;
+    border: 3px solid blue;
+    border-radius: 10px;
+    margin: 20px;
+}
+.img-bg{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    right: 0;
+    opacity: 1;
+}
+.ul-a li{
+    float: left;
+    list-style: none;
+    font-size: 20px;
+    text-transform: uppercase;
+    color: #fff;
+}
+.hour{
+    margin-left: 55px;
+}
+.minute{
+    margin-left: 33px;
+}
+.second{
+    margin-left: 30px;
+}
+.div-time{
+    width: 61%;
+    height: 10%;
+    clear: left;
+    margin:5px 0 0 91px;
+    border-radius: 10px;
+}
+.time-a{
+    width: 22%;
+    height: 60%;
+    margin:10px 0 0 0;
+}
+.time-b{
+    width: 22%;
+    height: 60%;
+    margin:10px 0 0 34px;
+}
+.time-c{
+    width: 22%;
+    height: 60%;
+    margin:10px 0 0 45px;
+}
+.ul-b li{
+    float: left;
+    list-style: none;
+    font-size: 15px;
+    text-transform: uppercase;
+    color: #fff;
+}
+.day{
+    margin-left: 100px;
+}
+.month{
+    margin-left: 15px;
+}
+.year{
+    margin-left: 15px;
+}
+.div-date{
+    position: absolute;
+    top: 185px;
+    left: 167px;
+    width: 40%;
+    height: 10%;
+    clear: left;
+    border-radius: 10px;
+}
+
+
+
+
+.adhan{
+    display: inline-block;
+    color: #fff;
+    font-size: 25px;
+    margin:215px 0 0 117px;
+    list-style-type: none; 
+    font-family: Times New Roman (Headings CS);
+}
+.iqamath{
+    display: inline-block;
+    color: #fff;
+    font-size: 25px;
+    margin:0 0 0 85px;
+    list-style-type: none; 
+    font-family: Times New Roman (Headings CS);
+}
+.wakth-a{
+    margin-top: -5px;
+}
+.wakth{
+    font-family: FML-TTRevathi;
+    color: #fff;
+    font-size: 20px;
+    list-style-type: none; 
+    line-height: 35px;
+}
+.ul-wakth-arabic{
+    position: absolute;
+    right: 1100px;
+    top: 255px;
+    line-height: 35px;
+}
+.wakth-arabic{
+    color: #fff;
+    font-size: 25px;
+    list-style-type: none; 
+    font-family: Andalus;
+}
+.luhar-a{
+    position: absolute;
+    top: 277px;
+    left: 130px;
+}
+.luhar-b{
+    position: absolute;
+    top: 277px;
+    left: 175px;
+}
+.luhar-c{
+    position: absolute;
+    top: 277px;
+    left: 250px;
+}
+.luhar-d{
+    position: absolute;
+    top: 277px;
+    left: 295px;
+}
+.asar-a{
+    position: absolute;
+    top: 312px;
+    left: 130px;
+}
+.asar-b{
+    position: absolute;
+    top: 312px;
+    left: 175px;
+}
+.asar-c{
+    position: absolute;
+    top: 312px;
+    left: 250px;
+}
+.asar-d{
+    position: absolute;
+    top: 312px;
+    left: 295px;
+}
+.magrib-a{
+    position: absolute;
+    top: 347px;
+    left: 130px;
+}
+.magrib-b{
+    position: absolute;
+    top: 347px;
+    left: 175px;
+}
+.magrib-c{
+    position: absolute;
+    top: 347px;
+    left: 250px;
+}
+.magrib-d{
+    position: absolute;
+    top: 347px;
+    left: 295px;
+}
+.isha-a{
+    position: absolute;
+    top: 383px;
+    left: 130px;
+}
+.isha-b{
+    position: absolute;
+    top: 383px;
+    left: 175px;
+}
+.isha-c{
+    position: absolute;
+    top: 383px;
+    left: 250px;
+}
+.isha-d{
+    position: absolute;
+    top: 383px;
+    left: 295px;
+}
+.subahi-a{
+    position: absolute;
+    top: 417px;
+    left: 130px;
+}
+.subahi-b{
+    position: absolute;
+    top: 417px;
+    left: 175px;
+}
+.subahi-c{
+    position: absolute;
+    top: 417px;
+    left: 250px;
+}
+.subahi-d{
+    position: absolute;
+    top: 417px;
+    left: 295px;
+}
